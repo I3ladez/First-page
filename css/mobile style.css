@@ -1,0 +1,129 @@
+@media only screen and (max-device-width: 480px) {
+	header {
+	width: 100%;
+	padding-bottom: 2px;
+}
+.option li {
+	height: 58px;
+}
+.box-title{
+	width: 430px;
+}
+.title {
+	display: flex;
+	width: 420px;
+	font-size: 48px;
+
+}
+.text { 
+	width: 420px;
+}
+.box-intro { 
+	flex-wrap: nowrap;
+	padding-top: 30px;
+}
+.img {
+	margin-top: 20px;
+}
+body > header > div > div.img > a > img:nth-child(1){
+	width: 425px;
+}
+.box-todo {
+	padding-top: 12px;
+}
+.left-todo h1 {
+	font-size: 32px;
+}
+.left-todo p{
+	font-size: 15px;
+	padding: 5px;
+
+}
+.right-todo{
+	justify-content: center;
+}
+.line {
+	margin-top: 16px;
+	width: 367px;
+
+}
+.prod{
+	padding-top: 0px;
+}
+.prod h1{
+	font-size: 39px;
+}
+.prod p{
+	width: 320px;
+	margin-top: -16px;
+}
+.prod hr{
+	margin-top: 14px;
+}
+.prodmenu{
+	margin-top: 24px;
+}
+.prodwrap{
+	padding-top: 42px;
+}
+.meet p{
+	width: 418px;
+	font-size: 15px;
+}
+.meet{
+	padding-top: 41px;
+}
+.team{
+	padding-top: 39px;
+	padding-bottom: 36px;
+}
+.photo{
+	height: 390px;
+}
+.tname{
+	padding-left: 5px;
+	max-width: 430px;
+}
+.tname p{
+	width: 410px;
+}
+.black{
+	padding-top: 32px;
+}
+.black h1 {
+	font-size: 38px;
+
+}
+.black p{
+	width: 420px;
+}
+.inp{
+	width: 320px;
+}
+.touch p{
+	padding-top: 15px;
+	width: 320px;
+}
+.touch h1{
+	padding-top: 44px;
+}
+.touch hr{
+	margin-top: 31px;
+}
+.tcbot{
+	padding-top: 35px;
+}
+.msg{
+	width: 320px !important;
+	margin-top: 22px;
+}
+.send{
+	margin-top: 24px;
+}
+.bot p{
+	font-size: 14px;
+}
+.tright p{
+	padding-top: 0px;
+	font-size: 13px;
+}
